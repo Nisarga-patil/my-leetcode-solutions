@@ -4,13 +4,13 @@
 ![GitHub Repo Stars](https://img.shields.io/github/stars/midnight-moon/LeetCode-Solutions?style=social)
 
 🧠 Practicing DSA daily on LeetCode to crack top tech interviews.  
-💻 Languages used: **C++ | Java | Python**
+💻 Languages used: **C++ | Python**
 
 ---
 
 ## 🗓️ Daily Progress
 
-- 🔥 300+ problems solved
+- 🔥 200+ problems solved
 - 🌟 Most solved categories:
   - Arrays
   - Strings
@@ -24,9 +24,9 @@
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy     | XX     |
-| 🟡 Medium   | XX     |
-| 🔴 Hard     | XX     |
+| 🟢 Easy     | 85     |
+| 🟡 Medium   | 104   |
+| 🔴 Hard     | 14   |
 
 ---
 
@@ -51,7 +51,6 @@
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
 
 ---
 
